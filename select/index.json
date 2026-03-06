@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Break the Chain",
+  "base_artist": "Tourbillon",
+  "createdAt": "2026-03-06T07:32:50.513838Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Break the Chain",
+      "artist": "2 Unlimited",
+      "has_synced": true,
+      "path": "select/01_Break_the_Chain_2_Unlimited.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Break The Chain",
+      "artist": "Oh Land",
+      "has_synced": true,
+      "path": "select/02_Break_The_Chain_Oh_Land.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Break the Chain",
+      "artist": "Raven",
+      "has_synced": false,
+      "path": "select/03_Break_the_Chain_Raven.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Break The Chain",
+      "artist": "Raven",
+      "has_synced": true,
+      "path": "select/04_Break_The_Chain_Raven.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Break the Chain - Live At the Inferno",
+      "artist": "Raven",
+      "has_synced": false,
+      "path": "select/05_Break_the_Chain_-_Live_At_the_Inferno_Raven.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Break The Chain",
+      "artist": "Corey Hart",
+      "has_synced": true,
+      "path": "select/06_Break_The_Chain_Corey_Hart.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Break The Chain",
+      "artist": "IAMX",
+      "has_synced": true,
+      "path": "select/07_Break_The_Chain_IAMX.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Break the Chain",
+      "artist": "Guerrilla Warfare",
+      "has_synced": false,
+      "path": "select/08_Break_the_Chain_Guerrilla_Warfare.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Break the Chain",
+      "artist": "Neil Young",
+      "has_synced": false,
+      "path": "select/09_Break_the_Chain_Neil_Young.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Break the Chain",
+      "artist": "Neil Young & Crazy Horse",
+      "has_synced": false,
+      "path": "select/10_Break_the_Chain_Neil_Young_&_Crazy_Horse.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Break the Chain",
+      "artist": "lily-an",
+      "has_synced": false,
+      "path": "select/11_Break_the_Chain_lily-an.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Break the Chain",
+      "artist": "Gene Loves Jezebel",
+      "has_synced": true,
+      "path": "select/12_Break_the_Chain_Gene_Loves_Jezebel.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "BREAK THE CHAIN (feat. Eric Turner & Sway)",
+      "artist": "Lupe Fiasco feat. Eric Turner & Sway",
+      "has_synced": true,
+      "path": "select/13_BREAK_THE_CHAIN_(feat._Eric_Turner_&_Sway)_Lupe_Fiasco_feat._Eric_Turner_&_Sway.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Break The Chain (Feat.Eric Turner & Sway)",
+      "artist": "Lupe Fiasco",
+      "has_synced": true,
+      "path": "select/14_Break_The_Chain_(Feat.Eric_Turner_&_Sway)_Lupe_Fiasco.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Break the Chain",
+      "artist": "Tourbillon",
+      "has_synced": false,
+      "path": "select/pl_01_Break_the_Chain_Tourbillon.txt"
+    }
+  ]
+}
